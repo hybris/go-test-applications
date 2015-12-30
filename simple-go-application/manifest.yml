@@ -1,0 +1,5 @@
+---
+applications:
+- name: simple-go-application
+  memory: 128M
+  instances: 1
