@@ -25,7 +25,8 @@ Before building the project, the following tools must be installed:
 To build the project, navigate to the app directory and run the following:
 
 ```
-$ TODO
+$ go build app.go
+$ ./app
 ```
 
 ## Deploying to Cloud Foundry
