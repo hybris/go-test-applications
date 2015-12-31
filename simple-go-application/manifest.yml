@@ -1,5 +1,6 @@
 ---
 applications:
 - name: simple-go-application
+  command: go run app.go
   memory: 128M
   instances: 1
