@@ -7,6 +7,7 @@ A collection of applications used for testing the Go buildpack
 | Name | Description
 | ---- | -----------
 | `simple-go-application` | A simple Go application
+| `cf-go-test-app` | Cloned from https://github.com/combor/cf-test-app
 
 ### Output Content
 
